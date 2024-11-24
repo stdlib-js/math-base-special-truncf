@@ -6,12 +6,23 @@
 
 ## Unreleased (2024-11-24)
 
+<section class="reverts">
+
+### Reverts
+
+-   [`dbbb0ba`](https://github.com/stdlib-js/stdlib/commit/dbbb0bab688e9a2de22d967a57eeb31738b93340) - chore: update to modern benchmark Makefile
+
+</section>
+
+<!-- /.reverts -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`dbbb0ba`](https://github.com/stdlib-js/stdlib/commit/dbbb0bab688e9a2de22d967a57eeb31738b93340) - **revert:** chore: update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`184d71f`](https://github.com/stdlib-js/stdlib/commit/184d71f0d04083ef6e64b641eccfc322273f544c) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
 -   [`02d4c8a`](https://github.com/stdlib-js/stdlib/commit/02d4c8a5104c324ff3e4b55c6889601e9fd81844) - **bench:** fix variable dtypes [(#2761)](https://github.com/stdlib-js/stdlib/pull/2761) _(by Gunj Joshi, Athan Reines)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
