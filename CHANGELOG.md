@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-30)
+## Unreleased (2025-11-11)
 
 <section class="reverts">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5c1d94a`](https://github.com/stdlib-js/stdlib/commit/5c1d94adc310470a09ca01c7156f414fad49a73e) - **docs:** update related packages sections [(#8500)](https://github.com/stdlib-js/stdlib/pull/8500) _(by stdlib-bot)_
 -   [`3898217`](https://github.com/stdlib-js/stdlib/commit/38982173aeeb6e4e38c9452768b15b2cd50ebed2) - **chore:** add structured package data  for `math/base/special/truncf` [(#8290)](https://github.com/stdlib-js/stdlib/pull/8290) _(by Manvith M)_
 -   [`b1a5a2d`](https://github.com/stdlib-js/stdlib/commit/b1a5a2d87a0e1f5a0bd6d74d521cae9eeab435c8) - **docs:** replace manual `for` loop in examples [(#6550)](https://github.com/stdlib-js/stdlib/pull/6550) _(by Harsh Yadav, Athan Reines)_
 -   [`57efa3d`](https://github.com/stdlib-js/stdlib/commit/57efa3d9de9c4c2f0a94387079e356dad7649a40) - **chore:** rename C files to follow current project conventions [(#6410)](https://github.com/stdlib-js/stdlib/pull/6410) _(by Karan Anand, stdlib-bot)_
