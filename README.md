@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import truncf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncf@esm/index.mjs';
+import truncf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncf@v0.2.3-esm/index.mjs';
 ```
 
 #### truncf( x )
@@ -90,7 +90,7 @@ v = truncf( -Infinity );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import truncf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncf@esm/index.mjs';
+import truncf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-truncf@v0.2.3-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
